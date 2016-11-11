@@ -1,0 +1,36 @@
+{
+  "name": "gulpy",
+  "version": "1.0.0",
+  "description": "my gulpy",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-git": "^1.9.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-csscomb": "^3.0.8",
+    "gulp-csso": "^2.0.0",
+    "gulp-html-beautify": "^1.0.1",
+    "gulp-htmlhint": "^0.3.1",
+    "gulp-htmlmin": "^2.0.0",
+    "gulp-menu": "^0.2.2",
+    "gulp-useref": "^3.1.2"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertswin/gulpy.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "robertswin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertswin/gulpy/issues"
+  },
+  "homepage": "https://github.com/robertswin/gulpy#readme"
+}
